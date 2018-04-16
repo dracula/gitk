@@ -2,16 +2,11 @@
 
 > A dark theme for [gitk](https://git-scm.com/docs/gitk).
 
-![Screenshot](screenshot.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/gitk.png)
 
 ## Install
 
-```
-$ mkdir -p ~/.config/git
-$ cd /tmp/
-$ git clone https://github.com/AurelienLourot/gitk.git
-$ cp gitk/gitk ~/.config/git/
-```
+All instructions can be found at [draculatheme.com/gitk](https://draculatheme.com/gitk).
 
 ## Team
 
