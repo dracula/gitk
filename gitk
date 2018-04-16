@@ -4,7 +4,7 @@ set bgcolor #282a36
 set fgcolor #f8f8f2
 set uifgcolor #f8f8f2
 set uifgdisabledcolor #6272a4
-set colors {#50fa7b #ff5555 #bd93f9 #ff79c6 #282a36 #ffb86c #ffb86c}
+set colors {#50fa7b #ff5555 #bd93f9 #ff79c6 #f8f8f8 #ffb86c #ffb86c}
 set diffcolors {#ff5555 #50fa7b #bd93f9}
 set mergecolors {#ff5555 #bd93f9 #50fa7b #bd93f9 #ffb86c #8be9fd #ff79c6 #f1fa8c #8be9fd #ff79c6 #8be9fd #ffb86c #8be9fd #50fa7b #ffb86c #ff79c6}
 set markbgcolor #282a36
