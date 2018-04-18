@@ -1,3 +1,5 @@
+[<img src="https://draculatheme.com/assets/img/icons/axe.png" align="right" width="70" height="61">](https://draculatheme.com/gitk)
+
 # Dracula for [gitk](https://git-scm.com/docs/gitk)
 
 > A dark theme for [gitk](https://git-scm.com/docs/gitk).
