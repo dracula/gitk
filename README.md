@@ -1,10 +1,8 @@
-[<img src="https://draculatheme.com/assets/img/icons/axe.png" align="right" width="70" height="61">](https://draculatheme.com/gitk)
-
 # Dracula for [gitk](https://git-scm.com/docs/gitk)
 
 > A dark theme for [gitk](https://git-scm.com/docs/gitk).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/gitk.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
