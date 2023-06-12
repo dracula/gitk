@@ -1,4 +1,0 @@
-https://superuser.com/questions/30175/gitk-looks-ugly-doesnt-honor-theme-settings#comment1956470_1157084
-https://stackoverflow.com/questions/24208933/how-to-change-ui-colors-for-gitk#comment86742446_24209547
-https://gist.github.com/RootKiller/3c3da9c8e8df929de3464ea645c9e896
-https://www.reddit.com/r/git/comments/8cppdx/a_dark_theme_for_gitk/
