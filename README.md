@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/gitk](https://draculatheme.co
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/gitk/graphs/contributors).
 
-| [![AurelienLourot](https://avatars0.githubusercontent.com/u/11795312?v=4&s=70)](https://github.com/AurelienLourot) |
-| ------------------------------------------------------------------------------------------------------------------ |
-| [Aurelien Lourot](https://github.com/AurelienLourot)                                                               |
+[![AurelienLourot](https://avatars.githubusercontent.com/u/11795312?v=4&s=70)](https://github.com/AurelienLourot)
+[![zenorocha](https://avatars.githubusercontent.com/u/398893?v=4&s=70)](https://github.com/zenorocha)
+[![andersk](https://avatars.githubusercontent.com/u/26471?v=4&s=70)](https://github.com/andersk)
 
 ## Community
 
